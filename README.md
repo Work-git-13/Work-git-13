@@ -1,12 +1,12 @@
 # Егор Козьменко
 
-📩 [still.overfitting@gmail.com](mailto:still.overfitting@gmail.com) · 💬 [@ambassad0r_kayfa](https://t.me/ambassad0r_kayfa) · 🐙 [Egor-git-cloud](https://github.com/Egor-git-cloud)
+📩 [still.overfitting@gmail.com](mailto:still.overfitting@gmail.com) · 💬 [@ambassad0r_kayfa](https://t.me/ambassad0r_kayfa) · 🐙 [Work-git-13](https://github.com/Work-git-13)
 
 ---
 
 ## Образование
 
-**МТУСИ — Информатика и вычислительная техника**  
+**МТУСИ - Информатика и вычислительная техника**  
 **Профиль:** Искусственный интеллект и машинное обучение  
 3 курс · Окончание: 2028
 
@@ -14,17 +14,15 @@
 
 ## Навыки
 
-**ML / Data Science:** Python, scikit-learn, CatBoost, XGBoost, matplotlib, seaborn, pandas, numpy  
-**NLP / LLM:** RAG-системы, LLM, промптинг, sentence-transformers  
-**Backend:** FastAPI, SQLAlchemy, PostgreSQL, SQLite  
-**Инфраструктура:** Docker, Docker Compose, Git  
-**Векторные БД:** ChromaDB
+**ML / Data Science:** Python, scikit-learn, CatBoost, XGBoost, matplotlib, seaborn, pandas, numpy    
+**Backend:** FastAPI, SQLAlchemy, PostgreSQL, SQLite
+**Инфраструктура:** Docker, Docker Compose, Git
 
 ---
 
 ## Проекты
 
-### [SellCar Platform](ССЫЛКА_НА_РЕПОЗИТОРИЙ)
+### [SellCar Platform](https://github.com/Work-git-13/SellCar-Platform)
 
 Full-stack маркетплейс для продажи автомобилей с ML-функциональностью.
 
@@ -37,7 +35,7 @@ Full-stack маркетплейс для продажи автомобилей �
 
 ---
 
-### [Brain Tumor Detection](ССЫЛКА_НА_РЕПОЗИТОРИЙ)
+### [Brain Tumor Detection](https://github.com/Work-git-13/Brain-Tumor-Detection)
 
 Проект компьютерного зрения для анализа МРТ головного мозга и определения опухолей.
 
@@ -51,22 +49,15 @@ Full-stack маркетплейс для продажи автомобилей �
 
 ---
 
-### [Chatbot / RAG](ССЫЛКА_НА_РЕПОЗИТОРИЙ)
+### [Abandoned-Object-Detection](https://github.com/Work-git-13/Abandoned-Object-Detection)
 
-Чат-бот на основе RAG-архитектуры.
 
-- Векторный поиск по базе знаний
-- ChromaDB + sentence-transformers
-- Поддержка локальных и облачных LLM
-- Хранение истории диалогов
-- Классификация пользовательских запросов
-
-**Стек:** Python · FastAPI · ChromaDB · sentence-transformers · PostgreSQL · Ollama
+**Стек:** Python · 
 
 ---
 
 ## Курсы
 
-| Курс | Организация | Сертификат |
+| Курс | Организация | Срок |
 |---|---|---|
-| Машинное обучение в Python | Stepik | [Ссылка](ССЫЛКА_НА_СЕРТИФИКАТ) |
+| Машинное обучение в Python | Stepik | 02.2026-08.2026 |
