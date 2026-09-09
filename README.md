@@ -45,13 +45,25 @@ Full-stack маркетплейс для продажи автомобилей �
 - Детекция областей интереса
 - Формирование кандидатов опухолевых областей
 - Анализ результатов и визуализация масок
-- Работа с датасетом MRI-изображений
 
 **Стек:** Python · OpenCV · NumPy · Pandas · scikit-learn · Computer Vision
 
 ---
 
-### [Abandoned-Object-Detection](https://github.com/Work-git-13/Abandoned-Object-Detection)
+### [Cleaning Analytic Module](https://github.com/Work-git-13/Cleaning-Analytic-Module)
+
+Система видеоаналитики для определения рабочей зоны и оценки площади пола, обработанной поломоечной машиной.
+
+- Ансамблевая сегментация пола на основе FastSAM и SegFormer
+- Выбор итоговой маски по геометрическому качеству и временной стабильности
+- Детекция и построение накопительной траектории поломоечной машины с морфологической постобработкой для улучшения качества маски 
+- Расчёт перспективно-взвешенного процента покрытой площади
+
+**Стек:** Python · PyTorch · FastSAM · SegFormer · YOLO · OpenCV · NumPy · Computer Vision
+
+---
+
+### [Abandoned Object Detection](https://github.com/Work-git-13/Abandoned-Object-Detection)
 
 Проект компьютерного зрения для детекции оставленных вещей.
 
