@@ -13,12 +13,18 @@
 ---
 
 ## Навыки
-
-**ML / Data Science:** Python, scikit-learn, CatBoost, XGBoost, matplotlib, seaborn, pandas, numpy, OpenCV
-
 **Backend:** FastAPI, SQLAlchemy, PostgreSQL
-
 **Инфраструктура:** SQL, Docker, Docker Compose, Git
+
+## Навыки
+
+**ML / Data Science:** Python, PyTorch, scikit-learn, CatBoost, XGBoost, pandas, NumPy, matplotlib, seaborn
+
+**Computer Vision:** OpenCV, YOLO, Faster R-CNN, SSD, EfficientDet, DETR, FastSAM, Object Detection, Image Segmentation, Video Processing
+
+**Databases:** SQL, PostgreSQL, SQLite
+
+**Инфраструктура / Tools:** Git, Docker, Docker Compose, Jupyter Notebook, Google Colab, CVAT
 
 ---
 
